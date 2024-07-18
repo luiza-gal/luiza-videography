@@ -2181,3 +2181,10 @@ ol {
 .footer__option {
   display: none;
 }
+.mfp-iframe-scaler iframe {
+  background: transparent !important;
+  box-shadow: none !important;
+}
+.mfp-content {
+  height: 100% !important;
+}
