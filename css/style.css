@@ -2172,6 +2172,12 @@ ol {
 }
 
 /* My Customisations For Luiza videography */
-.header__nav__menu {
+.header,
+.counter,
+.team,
+.latest,
+.callto,
+.footer__top,
+.footer__option {
   display: none;
 }
